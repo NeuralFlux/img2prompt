@@ -1,28 +1,28 @@
 # img2prompt
 
 ### Directory structure
-img2prompt/
-├── data
-│   ├── data-card.json
-│   └── working
-│       ├── test.csv
-│       └── update_diffusiondb.csv
-├── models
-│   ├── approach_one
-│   │   ├── resnet152
-│   │   │   ├── modified_resnet152.ipynb
-│   │   │   └── resnet152_updated.pth
-│   │   └── vit
-│   │       ├── modified_ViT.ipynb
-│   │       └── vit_base_patch16_224.pth
-│   └── approach_two
-│       ├── blip
-│       │   └── blip_eval.ipynb
-│       ├── clip_interrogator
-│       │   └── clipinterrogator_eval.ipynb
-│       └── git
-│           └── git_eval.ipynb
-└── requirements.txt
+img2prompt/ <br>
+├── data <br>
+│   ├── data-card.json  <br>
+│   └── working  <br>
+│       ├── test.csv  <br>
+│       └── update_diffusiondb.csv  <br>
+├── models <br>
+│   ├── approach_one <br>
+│   │   ├── resnet152 <br>
+│   │   │   ├── modified_resnet152.ipynb <br>
+│   │   │   └── resnet152_updated.pth <br>
+│   │   └── vit <br>
+│   │       ├── modified_ViT.ipynb <br>
+│   │       └── vit_base_patch16_224.pth <br>
+│   └── approach_two <br>
+│       ├── blip <br>
+│       │   └── blip_eval.ipynb <br>
+│       ├── clip_interrogator <br>
+│       │   └── clipinterrogator_eval.ipynb <br>
+│       └── git <br>
+│           └── git_eval.ipynb <br>
+└── requirements.txt <br>
 
 `data/` - all the data needed for running our models
 `models/` - code for the models defined in the report with their weights
