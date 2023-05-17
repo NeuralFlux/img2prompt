@@ -1,0 +1,41 @@
+1. DiffusionDB-2M –– Part 0001 to 0100 of 2000: https://www.kaggle.com/datasets/dschettler8845/diffusiondb-2m-part-0001-to-0100-of-2000
+
+2. DiffusionDB-2M –– Part 0101 to 0200 of 2000: https://www.kaggle.com/datasets/dschettler8845/diffusiondb-2m-part-0101-to-0200-of-2000
+
+3. DiffusionDB-2M –– Part 0201 to 0300 of 2000: https://www.kaggle.com/datasets/dschettler8845/diffusiondb-2m-part-0201-to-0300-of-2000
+
+4. DiffusionDB-2M –– Part 0301 to 0400 of 2000: https://www.kaggle.com/datasets/dschettler8845/diffusiondb-2m-part-0301-to-0400-of-2000
+
+5. DiffusionDB-2M –– Part 0401 to 0500 of 2000: https://www.kaggle.com/datasets/dschettler8845/diffusiondb-2m-part-0401-to-0500-of-2000
+
+6. DiffusionDB-2M –– Part 0501 to 0600 of 2000: https://www.kaggle.com/datasets/dschettler8845/diffusiondb-2m-part-0501-to-0600-of-2000
+
+7. DiffusionDB-2M –– Part 0601 to 0700 of 2000: https://www.kaggle.com/datasets/dschettler8845/diffusiondb-2m-part-0601-to-0700-of-2000
+
+8. DiffusionDB-2M –– Part 0701 to 0800 of 2000: https://www.kaggle.com/datasets/dschettler8845/diffusiondb-2m-part-0701-to-0800-of-2000
+
+9. DiffusionDB-2M –– Part 0801 to 0900 of 2000: https://www.kaggle.com/datasets/dschettler8845/diffusiondb-2m-part-0801-to-0900-of-2000
+
+10. DiffusionDB-2M –– Part 0901 to 1000 of 2000: https://www.kaggle.com/datasets/dschettler8845/diffusiondb-2m-part-0901-to-1000-of-2000
+
+11. DiffusionDB-2M –– Part 1001 to 1100 of 2000: https://www.kaggle.com/datasets/dschettler8845/diffusiondb-2m-part-1001-to-1100-of-2000
+
+12. DiffusionDB-2M –– Part 1101 to 1200 of 2000: https://www.kaggle.com/datasets/dschettler8845/diffusiondb-2m-part-1101-to-1200-of-2000
+
+13. DiffusionDB-2M –– Part 1201 to 1300 of 2000: https://www.kaggle.com/datasets/dschettler8845/diffusiondb-2m-part-1201-to-1300-of-2000
+
+14. DiffusionDB-2M –– Part 1301 to 1400 of 2000: https://www.kaggle.com/datasets/dschettler8845/diffusiondb-2m-part-1301-to-1400-of-2000
+
+15. DiffusionDB-2M –– Part 1401 to 1500 of 2000: https://www.kaggle.com/datasets/dschettler8845/diffusiondb-2m-part-1401-to-1500-of-2000
+
+16. DiffusionDB-2M –– Part 1501 to 1600 of 2000: https://www.kaggle.com/datasets/dschettler8845/diffusiondb-2m-part-1501-to-1600-of-2000
+
+17. DiffusionDB-2M –– Part 1601 to 1700 of 2000: https://www.kaggle.com/datasets/dschettler8845/diffusiondb-2m-part-1601-to-1700-of-2000
+
+18. DiffusionDB-2M –– Part 1701 to 1800 of 2000: https://www.kaggle.com/datasets/dschettler8845/diffusiondb-2m-part-1701-to-1800-of-2000
+
+19. DiffusionDB-2M –– Part 1801 to 1900 of 2000: https://www.kaggle.com/datasets/dschettler8845/diffusiondb-2m-part-1801-to-1900-of-2000
+
+20. DiffusionDB-2M –– Part 1901 to 2000 of 2000: https://www.kaggle.com/datasets/dschettler8845/diffusiondb-2m-part-1901-to-2000-of-2000
+
+21. sentence-transformers-2.2.2: https://www.kaggle.com/datasets/inversion/sentence-transformers-222
